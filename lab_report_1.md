@@ -1,7 +1,7 @@
 ![Image](cd_portion.PNG)      
 -No Arguments:  stays in the user  
--Path to a directory:  goes into the lecture1 repository    
--_ath to a file: utilizes file path to messages in lecture1 to go to messages  
+-Path to a directory:  goes into the lecture1 repository  
+-Path to a file: utilizes file path to messages in lecture1 to go to messages  
 
 
 ![Image](ls_portion.PNG)     
