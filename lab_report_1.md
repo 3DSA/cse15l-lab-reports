@@ -1,4 +1,4 @@
-![Image](cd_1.PNG)      
+![Image](cd_1.png)      
 -No Arguments:  (current directory: user) The cd command with no arguments will change the current working directory to the current user's home directory. The current working directory was already in the user sahara, so it stays in the same directory.  
 ![Image](cd_2.PNG)  
 -Path to a directory: (current directory: user) changes current working directory from user to lecture1, which is located in user. It uses the relative file path since lecture1 is in the user directory already.   
